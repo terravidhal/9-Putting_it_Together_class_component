@@ -1,0 +1,10 @@
+.PersonCard {
+    margin: 20px auto;
+    width: 400px;
+}
+.PersonCard p{
+    font-weight: initial;
+}
+.PersonCard button{
+    cursor: pointer;
+}
